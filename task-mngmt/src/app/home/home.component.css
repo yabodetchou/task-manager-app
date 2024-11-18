@@ -1,0 +1,41 @@
+
+
+.title-name {
+    color: #e38484;
+    font-size: 80px;
+
+
+
+
+}
+
+
+.title-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.main-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.login-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.login-btn {
+    font-size: medium;
+    background-color: black;
+}
+.login-btn a {
+    color: #e38484;
+    text-decoration: none;
+
+}
