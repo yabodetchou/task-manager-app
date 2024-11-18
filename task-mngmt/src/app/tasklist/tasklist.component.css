@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    display: block;
+
+  }
+  
+  li {
+    margin: 2em;
+  }
+  .title {
+    color: #e38484;
+    font-size: 40px;
+  }
+
+  .title-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+ 
+  button {
+    background-color: black;
+    background-color: #e38484;
+    font-size: medium;
+    text-decoration: none;
+  }
+
+  .task-container {
+    border: 1px solid #e38484 ;
+    background-color: aliceblue;
+    padding:20px;
+  }
+
+ 
