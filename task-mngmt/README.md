@@ -1,2 +1,2 @@
 # Task-Manager
-full stack task management website that allows users to log in to website using their email and password and create a to do list, manage data list in progress and done
+full stack task management website to create and manage to do list
