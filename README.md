@@ -1,6 +1,7 @@
 # task-manager-app
 create new task and manage existing task
 [Live Demo] https://youtu.be/irwx39ysiYw
+[Figma] https://www.figma.com/design/GU2awLt72PBPvhU2L8rdGP/Task-Manager?t=YeNQbNsY0dgMZR1K-1
 
 
 
